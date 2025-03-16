@@ -1,3 +1,2 @@
 Hello,Git!
-Git is a version control system!
-git is used to track changes in the code!
+git is the VCS!
